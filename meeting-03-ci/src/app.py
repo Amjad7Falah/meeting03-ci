@@ -6,6 +6,10 @@ def add(a, b):
     return a + b
 
 
+    def multiply(a, b):
+        return a * b 
+
+
 def health():
     """Return the service status."""
     return "ok"
